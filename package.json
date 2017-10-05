@@ -1,13 +1,13 @@
 {
   "name": "react-native-own-bridge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The missing CLI tool to generate project specific native bridges with a single command",
   "repository": {
     "type": "git",
-    "url": "https://github.com/whitedogg13/react-native-own-bridge.git"
+    "url": "https://github.com/revtel/react-native-own-bridge.git"
   },
   "bugs": {
-    "url": "https://github.com/whitedogg13/react-native-own-bridge/issues"
+    "url": "https://github.com/revtel/react-native-own-bridge/issues"
   },
   "keywords": [
   	"react-native",
