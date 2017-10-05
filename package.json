@@ -1,0 +1,22 @@
+{
+  "name": "react-native-own-bridge",
+  "version": "0.0.1",
+  "description": "",
+  "bin": {
+    "react-native-own-bridge": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Richie Hsieh <whitedogg13@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.11.0",
+    "ejs": "^2.5.7",
+    "read-package-json": "^2.0.12",
+    "shelljs": "^0.7.8"
+  }
+}
