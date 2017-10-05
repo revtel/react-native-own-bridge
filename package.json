@@ -1,6 +1,6 @@
 {
   "name": "react-native-own-bridge",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The missing CLI tool to generate project specific native bridges with a single command",
   "repository": {
     "type": "git",
