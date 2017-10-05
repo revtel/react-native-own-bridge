@@ -39,7 +39,7 @@ Host platforms (the machine running this CLI)
 
 ## Install
 ```shell
-npm i --g react-native-own-bridge
+npm i -g react-native-own-bridge
 # you might need to add `sudo` for certain platform
 ```
 
